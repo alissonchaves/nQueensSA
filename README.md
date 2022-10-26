@@ -8,7 +8,7 @@ php8-cli
 
 **Execution:**
 
-#php main.php <number of queens>
+#php main.php \<number of queens\>
 
 Ex:
   php main.php 15
